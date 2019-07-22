@@ -1,5 +1,5 @@
 package tomoproject;
 
-public class test {
+public class test {int x=0
 
 }
